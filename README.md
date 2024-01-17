@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Projeto React com WebSocket
+
+[![React Badge](https://img.shields.io/badge/React-17.0.2-blue?logo=react)](https://reactjs.org/)
+[![Node.js Badge](https://img.shields.io/badge/Node.js-14.17.0-green?logo=node.js)](https://nodejs.org/)
+[![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+Este é um projeto React que utiliza WebSocket para comunicação em tempo real. A aplicação inclui um servidor Node.js para gerenciar as conexões WebSocket e trocar mensagens entre clientes.
+
